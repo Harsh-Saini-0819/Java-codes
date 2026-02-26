@@ -1,4 +1,6 @@
-# number-guessing
-This repository contains a number guessing game.
+# Java Codes
+This repository contains codes of - <br>
+1. Number guessing game.<br>
+3. Rock Paper Scissor game
 <br>
-The code is writtten in Java language.
+The codes is writtten in Java language.
