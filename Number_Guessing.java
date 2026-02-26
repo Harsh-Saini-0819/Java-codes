@@ -38,7 +38,7 @@ class Game{
         }
     }
 }
-public class GameCode {
+public class Number_Guessing {
 
 //Game
     public static void main(String[] args) {
